@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [14.8.0](https://github.com/mojaloop/event-sdk/compare/v14.7.0...v14.8.0) (2025-09-26)
+
+
+### Features
+
+* add grype src scan plus update deps ([#102](https://github.com/mojaloop/event-sdk/issues/102)) ([63c822d](https://github.com/mojaloop/event-sdk/commit/63c822dc188ce53ba7a6442fe2119ec6bd286332))
+
 ## [14.7.0](https://github.com/mojaloop/event-sdk/compare/v14.6.1...v14.7.0) (2025-09-05)
 
 

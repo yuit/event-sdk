@@ -1,6 +1,6 @@
 {
   "name": "@mojaloop/event-sdk",
-  "version": "14.7.0",
+  "version": "14.8.0",
   "description": "Shared code for Event Logging",
   "author": "ModusBox",
   "contributors": [
@@ -115,7 +115,7 @@
     "ts-jest": {
       "jest": "30.0.0"
     },
-    "uuid" : "11.1.0"
+    "uuid": "11.1.0"
   },
   "peerDependencies": {
     "@mojaloop/central-services-logger": ">=11.x.x",
